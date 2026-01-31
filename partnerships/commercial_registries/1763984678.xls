@@ -1,0 +1,231 @@
+﻿<table class="table table-striped table-hover text-center align-middle" id="complaintsTable">
+                    <thead class="bg-light">
+                        <tr>
+                            <th>#</th>
+                            <th>نوع الشكوى</th>
+                            <th>الفرع</th>
+                            <th>الاسم</th>
+                            <th>رقم الجوال</th>
+                            <th>الإيميل</th>
+                            <th>رقم الفاتورة</th>
+                            <th>الصورة</th>
+                            <th>الرسالة</th>
+                            <th>تاريخ وتوقيت الإرسال</th>
+                            <th>العمليات</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                                                    <tr>
+                                <td>1</td>
+                                <td>صضث</td>
+                                <td>-</td>
+                                <td>حماية داخلية السيارة بتقنية النانو سيراميك</td>
+                                <td>213123</td>
+                                <td>ehabmark88@gmail.com</td>
+                                <td>صضث</td>
+                                <td>
+                                                                            <a href="[&quot;complaints\/images\/ECQXDBnvME7Sx9eyq6KkfYPBO9Bifqi2vBjWDeCI.jpg&quot;,&quot;complaints\/images\/mm02r7VrhuC7gCbxDtfllFPLQbfpCGb0E0XqBI80.png&quot;]" target="_blank" title="عرض الصورة">
+                                            <img src="[&quot;complaints\/images\/ECQXDBnvME7Sx9eyq6KkfYPBO9Bifqi2vBjWDeCI.jpg&quot;,&quot;complaints\/images\/mm02r7VrhuC7gCbxDtfllFPLQbfpCGb0E0XqBI80.png&quot;]" alt="image" class="thumb-img">
+                                        </a>
+                                                                    </td>
+                                <td style="max-width:250px; white-space:pre-wrap; word-break:break-word;">
+                                    شسيشسيشسيشسيش
+                                </td>
+
+                                
+                                <td>
+                                    02 ديسمبر 2024 - 11:41 ص
+                                </td>
+
+                                <td>
+                                    <form action="https://nanoshield.eg/admin/dashboard/complaint/1" method="post" onsubmit="return confirm('هل أنت متأكد من حذف هذه الشكوى؟')">
+                                        <input type="hidden" name="_token" value="vJa0fC3sU5NT1jqXMK2OGD7ZLU7p305GRN2ovcUL" autocomplete="off">                                        <input type="hidden" name="_method" value="DELETE">                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="bx bx-trash"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>2</td>
+                                <td>فقثقث</td>
+                                <td>-</td>
+                                <td>حماية داخلية السيارة بتقنية النانو سيراميك</td>
+                                <td>ث54</td>
+                                <td>-</td>
+                                <td>فقثق</td>
+                                <td>
+                                                                            <a href="[&quot;1733147159.png&quot;,&quot;1733147159.png&quot;]" target="_blank" title="عرض الصورة">
+                                            <img src="[&quot;1733147159.png&quot;,&quot;1733147159.png&quot;]" alt="image" class="thumb-img">
+                                        </a>
+                                                                    </td>
+                                <td style="max-width:250px; white-space:pre-wrap; word-break:break-word;">
+                                    ؤءئؤئءؤءئ
+                                </td>
+
+                                
+                                <td>
+                                    02 ديسمبر 2024 - 11:45 ص
+                                </td>
+
+                                <td>
+                                    <form action="https://nanoshield.eg/admin/dashboard/complaint/2" method="post" onsubmit="return confirm('هل أنت متأكد من حذف هذه الشكوى؟')">
+                                        <input type="hidden" name="_token" value="vJa0fC3sU5NT1jqXMK2OGD7ZLU7p305GRN2ovcUL" autocomplete="off">                                        <input type="hidden" name="_method" value="DELETE">                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="bx bx-trash"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>3</td>
+                                <td>fdsvcas</td>
+                                <td>-</td>
+                                <td>dsad</td>
+                                <td>213123</td>
+                                <td>ehabmark88@gmail.com</td>
+                                <td>dsad</td>
+                                <td>
+                                                                            <a href="[&quot;1733147387.png&quot;,&quot;1733147387.png&quot;]" target="_blank" title="عرض الصورة">
+                                            <img src="[&quot;1733147387.png&quot;,&quot;1733147387.png&quot;]" alt="image" class="thumb-img">
+                                        </a>
+                                                                    </td>
+                                <td style="max-width:250px; white-space:pre-wrap; word-break:break-word;">
+                                    asdddddddddddd
+                                </td>
+
+                                
+                                <td>
+                                    02 ديسمبر 2024 - 11:49 ص
+                                </td>
+
+                                <td>
+                                    <form action="https://nanoshield.eg/admin/dashboard/complaint/3" method="post" onsubmit="return confirm('هل أنت متأكد من حذف هذه الشكوى؟')">
+                                        <input type="hidden" name="_token" value="vJa0fC3sU5NT1jqXMK2OGD7ZLU7p305GRN2ovcUL" autocomplete="off">                                        <input type="hidden" name="_method" value="DELETE">                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="bx bx-trash"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>4</td>
+                                <td>ewresr</td>
+                                <td>-</td>
+                                <td>الخدمة الاضافية</td>
+                                <td>213123</td>
+                                <td>esraaemad1520@gmail.com</td>
+                                <td>ewr</td>
+                                <td>
+                                                                            <a href="[&quot;1733147554.png&quot;,&quot;1733147554.png&quot;,&quot;1733147554.png&quot;,&quot;1733147554.png&quot;,&quot;1733147554.png&quot;]" target="_blank" title="عرض الصورة">
+                                            <img src="[&quot;1733147554.png&quot;,&quot;1733147554.png&quot;,&quot;1733147554.png&quot;,&quot;1733147554.png&quot;,&quot;1733147554.png&quot;]" alt="image" class="thumb-img">
+                                        </a>
+                                                                    </td>
+                                <td style="max-width:250px; white-space:pre-wrap; word-break:break-word;">
+                                    ewrrwer
+                                </td>
+
+                                
+                                <td>
+                                    02 ديسمبر 2024 - 11:52 ص
+                                </td>
+
+                                <td>
+                                    <form action="https://nanoshield.eg/admin/dashboard/complaint/4" method="post" onsubmit="return confirm('هل أنت متأكد من حذف هذه الشكوى؟')">
+                                        <input type="hidden" name="_token" value="vJa0fC3sU5NT1jqXMK2OGD7ZLU7p305GRN2ovcUL" autocomplete="off">                                        <input type="hidden" name="_method" value="DELETE">                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="bx bx-trash"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>5</td>
+                                <td>3214234</td>
+                                <td>-</td>
+                                <td>الخدمة الاضافية</td>
+                                <td>213123</td>
+                                <td>ehabmark88@gmail.com</td>
+                                <td>324134</td>
+                                <td>
+                                                                            <a href="[&quot;1733148267.png&quot;,&quot;1733148267.png&quot;]" target="_blank" title="عرض الصورة">
+                                            <img src="[&quot;1733148267.png&quot;,&quot;1733148267.png&quot;]" alt="image" class="thumb-img">
+                                        </a>
+                                                                    </td>
+                                <td style="max-width:250px; white-space:pre-wrap; word-break:break-word;">
+                                    3241يثصشس
+                                </td>
+
+                                
+                                <td>
+                                    02 ديسمبر 2024 - 12:04 م
+                                </td>
+
+                                <td>
+                                    <form action="https://nanoshield.eg/admin/dashboard/complaint/5" method="post" onsubmit="return confirm('هل أنت متأكد من حذف هذه الشكوى؟')">
+                                        <input type="hidden" name="_token" value="vJa0fC3sU5NT1jqXMK2OGD7ZLU7p305GRN2ovcUL" autocomplete="off">                                        <input type="hidden" name="_method" value="DELETE">                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="bx bx-trash"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>6</td>
+                                <td>fdsvcas</td>
+                                <td>-</td>
+                                <td>الخدمة الاضافية</td>
+                                <td>213123</td>
+                                <td>ehabmark88@gmail.com</td>
+                                <td>324324</td>
+                                <td>
+                                                                            <a href="[&quot;674dc4aca38ba.png&quot;,&quot;674dc4aca4dd0.png&quot;]" target="_blank" title="عرض الصورة">
+                                            <img src="[&quot;674dc4aca38ba.png&quot;,&quot;674dc4aca4dd0.png&quot;]" alt="image" class="thumb-img">
+                                        </a>
+                                                                    </td>
+                                <td style="max-width:250px; white-space:pre-wrap; word-break:break-word;">
+                                    ناتلانبانب
+                                </td>
+
+                                
+                                <td>
+                                    02 ديسمبر 2024 - 12:31 م
+                                </td>
+
+                                <td>
+                                    <form action="https://nanoshield.eg/admin/dashboard/complaint/6" method="post" onsubmit="return confirm('هل أنت متأكد من حذف هذه الشكوى؟')">
+                                        <input type="hidden" name="_token" value="vJa0fC3sU5NT1jqXMK2OGD7ZLU7p305GRN2ovcUL" autocomplete="off">                                        <input type="hidden" name="_method" value="DELETE">                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="bx bx-trash"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>7</td>
+                                <td>شس</td>
+                                <td>-</td>
+                                <td>test</td>
+                                <td>1222313123123</td>
+                                <td>ehabmark88@gmail.com</td>
+                                <td>6454564</td>
+                                <td>
+                                                                            <a href="[]" target="_blank" title="عرض الصورة">
+                                            <img src="[]" alt="image" class="thumb-img">
+                                        </a>
+                                                                    </td>
+                                <td style="max-width:250px; white-space:pre-wrap; word-break:break-word;">
+                                    يسشي
+                                </td>
+
+                                
+                                <td>
+                                    23 نوفمبر 2025 - 12:59 م
+                                </td>
+
+                                <td>
+                                    <form action="https://nanoshield.eg/admin/dashboard/complaint/7" method="post" onsubmit="return confirm('هل أنت متأكد من حذف هذه الشكوى؟')">
+                                        <input type="hidden" name="_token" value="vJa0fC3sU5NT1jqXMK2OGD7ZLU7p305GRN2ovcUL" autocomplete="off">                                        <input type="hidden" name="_method" value="DELETE">                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="bx bx-trash"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                        
+                                            </tbody>
+                </table>
